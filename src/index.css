@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.flip-item{
+  margin: 10% 40%;
+  color: brown;
+  font-size: large;
+  font-weight: 600;
+}
+.btn
+{
+  background-color: #de6c7d;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: 1px solid #de6c7d;
+  border-radius: 40%;
+  cursor: pointer;
+  font-size: large;
+  font-weight: 600;
+}
